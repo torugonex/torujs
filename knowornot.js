@@ -7,7 +7,7 @@ let numberNo = [];
 let result;
 
 function preload() {
-  result = loadStrings('assets/test.txt');
+  result = loadStrings('test.txt');
 }
 
 function setup() {
